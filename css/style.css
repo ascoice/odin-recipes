@@ -1,0 +1,23 @@
+body {
+  font-family: Georgia, serif;
+}
+
+.section {
+  width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.link {
+  margin: 16px auto;
+  text-align: center;
+}
+
+.link li{
+  display: inline;
+  border-bottom: double pink; 
+  margin: 0 auto;
+}
