@@ -21,3 +21,7 @@ h1 {
   border-bottom: double pink; 
   margin: 0 auto;
 }
+
+.ingredients {
+  background-color: bisque;
+}
